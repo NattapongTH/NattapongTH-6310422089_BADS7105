@@ -36,7 +36,8 @@ Note
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2003_Value%20Proposition/Photo/GP%20summary.JPG)
 
-# Idea: iCooking (Food platform app for people to love cooking)
+# Idea: iCooking 
+(Food platform app for people to love cooking)
 - Webboard/Community
 - Learn cooking (join with favorite youtuber/influencer
 - Food delivery
@@ -44,3 +45,11 @@ Note
 - Compare raw material with requirement for your menu (add delivery function for lacking material)
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2003_Value%20Proposition/Photo/Value%20Prop%20Canvas.JPG)
+
+***
+
+# Additonal: 
+- Use excel function to find sleeping time to find time gap (dinner - sleeping)
+- A lot of risk for people who have gap between dinner and sleeping < 3 hr.
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2003_Value%20Proposition/Photo/GAP.JPG)
