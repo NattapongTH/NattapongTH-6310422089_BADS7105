@@ -1,4 +1,4 @@
-# Analysis of Customer
+# <p align="center"> Analysis of Custome r</p>
 To show concept of analysis for beginning level
 ***
 
