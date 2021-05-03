@@ -26,6 +26,6 @@ Note
 
 - Use function "find" to find eating activity
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2003_Value%20Proposition/Photo/Find.JPG)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2003_Value%20Proposition/Photo/Find1.JPG)
 
 # Analysis concept:  
