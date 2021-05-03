@@ -2,3 +2,4 @@
  learn @ Nida class
 
 * Test
+![alt text](img/Result of Survey.JPG "Title Text")
