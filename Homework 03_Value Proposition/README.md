@@ -24,8 +24,11 @@ Note
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2003_Value%20Proposition/Photo/EDA.jpg)
 
-- Use function "find" to find eating activity
+- Use function "FIND" to find eating activity. Then create tempo column to some result from column "G" to "J" that we will get all eating activity.
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2003_Value%20Proposition/Photo/Find1.JPG)
 
+- Use function "MAX(IF" to find dinner from eating activity. Use this line to find gain and pain to analysis canvas
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2003_Value%20Proposition/Photo/Dinner%20filter.JPG)
 # Analysis concept:  
