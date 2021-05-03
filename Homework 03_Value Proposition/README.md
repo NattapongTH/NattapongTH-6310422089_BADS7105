@@ -28,7 +28,12 @@ Note
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2003_Value%20Proposition/Photo/Find1.JPG)
 
-- Use function "MAX(IF" to find dinner from eating activity. Use this line to find gain and pain to analysis canvas
+- Use function "MAX(IF" to find dinner from eating activity. Use this line to find gains and pains to analysis canvas
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2003_Value%20Proposition/Photo/Dinner%20filter.JPG)
+
+- Summary gains and pains
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2003_Value%20Proposition/Photo/GP%20summary.JPG)
+
 # Analysis concept:  
