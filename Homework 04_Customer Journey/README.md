@@ -1,17 +1,21 @@
-# <p align="center"> Job to be done </p>
+# <p align="center"> Customer Journey </p>
 ***
 
-# Job to be done:
-- การที่เราจ้าง product มาทำงานให้เรา
-- อาจเป็นด้าน functional outcome, emotional outcome, social outcome หรือร่วมๆกันก็ได้  
+# Defination:
+The customer journey in marketing refers to the customer’s path, via touchpoints, to their decision to purchase an item. 
+A customer doesn’t usually decide to purchase an item immediately after finding out about it for the first time. 
+Usually, customers look at a product or a brand several times before deciding on an action, known in marketing as touchpoints. 
+The customer journey then proceeds through these touchpoints.  
 
-# Homework:
-- ในที่นี้จะพูดถึง course สอนการออกกำลังกายออนไลน์แบบ calisthenics ซึ่งสามารถทำที่บ้านได้ และให้ประสิทธิภาพเหมือนอยู่ที่ยิม
+# Homework: Find kind of data that we have to collect for data analytic via Customer Journey
+- Step 1: Create customer journey
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2002_Job%20to%20be%20done/Job%20to%20be%20done.jpg)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2004_Customer%20Journey/Photo/1.JPG)
 
-# Note:
-- Lacture at class
+- Step 2: Fixing customer journey with data analytics
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2002_Job%20to%20be%20done/Photo/JTBD.jpg)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2004_Customer%20Journey/Photo/2.JPG)
 
+- Step 3: Collecting data throughout customer journey
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2004_Customer%20Journey/Photo/3.JPG)
