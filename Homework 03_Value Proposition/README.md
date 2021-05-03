@@ -36,9 +36,11 @@ Note
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2003_Value%20Proposition/Photo/GP%20summary.JPG)
 
-# Idea: iCooking (Cooking application --> Food platform app for people to love cooking )
+# Idea: iCooking (Food platform app for people to love cooking)
 - Webboard/Community
 - Learn cooking (join with favorite youtuber/influencer
 - Food delivery
 - Separate type of food (clean food, vegan, ...)
-- Compare raw material with requirement for your menu (add delivery function for lacking material)  
+- Compare raw material with requirement for your menu (add delivery function for lacking material)
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2003_Value%20Proposition/Photo/Value%20Prop%20Canvas.JPG)
