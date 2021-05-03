@@ -2,4 +2,4 @@
  learn @ Nida class
 
 * Test
-![Semantic description of image](/images/path/to/folder/Result of Survey.JPG "Title Text")
+![alt text](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/Homework 01_Analysis of Customer/Result of Survey.jpg?raw=true)
