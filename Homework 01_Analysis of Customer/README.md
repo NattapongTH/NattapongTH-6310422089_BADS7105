@@ -1,6 +1,6 @@
 # <p align="center"> Analysis of Customer </p>
 Note
-- To show concept of analysis for beginning level
+- To show concept of analysis for beginning level (excel base)
 - Sample only student in class
 ***
 
@@ -32,9 +32,21 @@ Note
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/9.%20DOB.jpg)
 
 # Analysis concept:  
-- Use only top score to the most favorite of each zodiac  
+- The top average score is the most favorite of each zodiac  
  
 # Result:  
 - Food: Love "Japanese" but Eat "Thai"
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/9.%20Food%20summary.JPG)
+
+- Hobby:
+	- Aries, Gemini, Cancer, Leo, Libra and Aquarius are love home activity (Reading and Watching movie/series/youtube)
+	- Taurus, Scorpio and Capricorn are love outdoor activity (Travel)
+	- However, all of zodiac spend time on youtube higher than other activities
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/9.%20Hobby%20summary.JPG)
+
+- Content:
+	- Food, Travel and Politics are recommend. 
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/9.%20Content%20summary.JPG)
