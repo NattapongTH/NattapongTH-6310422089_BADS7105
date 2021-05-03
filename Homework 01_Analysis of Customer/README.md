@@ -11,15 +11,15 @@ Note
 # Source:
 - Survey interesting and frequency of student about food, hobby and content 
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/9. Survey.jpg)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/9.%20Survey.jpg)
 
 - Result of the survey 
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/9. Result%20of%20Survey.JPG)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/9.%20Result%20of%20Survey.JPG)
 
 - Summary topic table 
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/9. Topic%20summary%20from%20Survey.JPG)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/9.%20Topic%20summary%20from%20Survey.JPG)
 
 
 # Data preparation:
@@ -32,4 +32,4 @@ Note
 # Result:  
 - Food: Love "Japanese" but Eat "Thai"
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/9. Food%20summary.JPG)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/9.%20Food%20summary.JPG)
