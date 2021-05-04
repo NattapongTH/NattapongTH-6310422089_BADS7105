@@ -37,3 +37,10 @@
 - For CLV result, I assume monthly discount rate=0.01 (~ 12.7% annually)
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/3.%20CLV%20result.JPG)
+
+4. After got CLV by customer, I merge result of Churn analysis, Customer segmentation and set segmentation name as 3+2+1
+
+- 3 = "Customer segmentation from K-Mean"
+- Click [here](https://www.kaggle.com/nattapongthanngam/kmean2) to find my code
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/4.%20KMEAN%20result.jpg)
