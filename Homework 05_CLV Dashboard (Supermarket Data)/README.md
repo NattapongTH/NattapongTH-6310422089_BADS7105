@@ -16,9 +16,9 @@
 		3. Customer value = average purchase value × purchase frequency.
 
 # Source:
-- Survey interesting and frequency of student about food, hobby and content 
+- Open data from dunnhumby (I highlight some interesting topic)
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/Photo/9.%20Survey.jpg)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/Raw%20data_CLV.JPG)
 
 - Result of the survey 
 
