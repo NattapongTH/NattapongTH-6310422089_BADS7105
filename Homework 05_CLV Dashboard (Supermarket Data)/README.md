@@ -47,7 +47,7 @@
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/4.%20KMEAN%20result.jpg)
 
-	- The result of customer segmentation = High, Medium and Low customer
+	- The result of customer segmentation = High, Medium and Low spending customer
 	
 - 2 = I separate Churn only 2 step (1. Churn in Current month Churn and 2. Churn in Previous month)   
 		
@@ -59,6 +59,35 @@
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/6.%20GAP%20of%20visiting.JPG)
 
- 
+6. Set name of each group
+	- EPIC = Low spending customer
+	- LEGENDARY = Medium spending customer
+	- CELESTIAL = High spending customer
+	- CHURN = Customer who do not visit shop in this month
+	- GHOST = Customer who do not visit shop longer than 2 month
+	- SHADOW = Non-member customer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
