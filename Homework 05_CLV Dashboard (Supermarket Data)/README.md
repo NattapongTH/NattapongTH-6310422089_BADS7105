@@ -1,12 +1,19 @@
-# <p align="center"> Analysis of Customer </p>
-Note
-- To show concept of analysis for beginning level (excel base)
-- Sample only student in class
+# <p align="center"> Customer Lifetime Value </p>
 ***
 
 # Concept:
-- Group survey by zodiac to find insignt
-- Thai people are interesting in horoscope. Marketing team easy to use analysis result.  
+- Customer Lifetime Value (CLV) represents the average amount of money a customer is expected to spend on a specific organisation or brand over their entire lifetime.
+- Step of work
+	- Use Lifetime package in Python to calculate CLV
+	- Merge result with other homework (Churn analysis, Customer segmentation) to group custmer
+	- Match proper compaign to each segment of customer
+
+- Lifetime package in python 
+	- Use Recency, Frequency and Monetary (RFM) Analysis to calculate CLV Calculation
+	- The RFM matrix segments the contact base based on recency, frequency, and monetary value of purchases for a specified period.
+		1. Average purchase value = total sales/orders.
+		2. Purchase frequency = orders/contacts.
+		3. Customer value = average purchase value × purchase frequency.
 
 # Source:
 - Survey interesting and frequency of student about food, hobby and content 
