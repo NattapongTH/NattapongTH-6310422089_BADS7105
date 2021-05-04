@@ -22,7 +22,10 @@
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/Raw%20data_CLV.JPG)
 
 # Step of work:
-- I use excel to preview data first. It is not too big so I use excel function to convert date from YYYYMMDD to DD-MMM-YYYY
-- Use google bigquenry to summary data (Expected result = 1 line/(Customer_ID + Date + Total_Spending)
+1. I use excel to preview data first. It is not too big so I use excel function to convert date from YYYYMMDD to DD-MMM-YYYY
+2. Use google bigquenry to summary data (Expected result = 1 line/(Customer_ID + Date + Total_Spending)
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/1.%20GBQ%20for%20CLV.JPG)
+
+3. Use python to calculate CLV by use Lifetime package
+Click [here](https://www.kaggle.com/nattapongthanngam/clv-test-nattapong) to find my code  
