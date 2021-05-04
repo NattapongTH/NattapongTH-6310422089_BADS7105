@@ -41,11 +41,11 @@
 4. After got CLV by customer, I merge result of Churn analysis, Customer segmentation and set segmentation name as 3+2+1
 
 	- 3 = "Customer segmentation from K-Mean"
-		- Click [here](https://www.kaggle.com/nattapongthanngam/kmean2) to find my code
+	- Click [here](https://www.kaggle.com/nattapongthanngam/kmean2) to find my code
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/4.%20KMEAN%20result.jpg)
 
-		- The result of customer segmentation = High/Medium/Low customer
+	- The result of customer segmentation = High/Medium/Low customer
 	
 
 	- 2 = I separate Churn only 2 step (1. Churn in Current month Churn and 2. Churn in Previous month)   
