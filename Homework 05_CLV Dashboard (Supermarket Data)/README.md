@@ -100,7 +100,10 @@
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/9.%20Best%20seller.JPG)
 
+- Monthly dashboard 
+	- Use to monitor shop performance. It can use for preformance monitoring after campaign implementation
 
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/12.%20monthly%20dashboard.JPG)
 
 
 
