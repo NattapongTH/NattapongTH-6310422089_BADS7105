@@ -2,8 +2,9 @@
 ***
 
 # Concept:
+- I design dashboard to use as routine. Therefore, the data is calculate base on 3 months (Apr - Jun 2008) 
 - Customer Lifetime Value (CLV) represents the average amount of money a customer is expected to spend on a specific organisation or brand over their entire lifetime.
-- Step of work
+- Design concept of work
 	- Use Lifetime package in Python to calculate CLV
 	- Merge result with other homework (Churn analysis, Customer segmentation) to group custmer
 	- Match proper compaign to each segment of customer
@@ -20,40 +21,8 @@
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/Raw%20data_CLV.JPG)
 
-- Result of the survey 
+# Step of work:
+- I use excel to preview data first. It is not too big so I use excel function to convert date from YYYYMMDD to DD-MMM-YYYY
+- Use google bigquenry to summary data (Expected result = 1 line/(Customer_ID + Date + Total_Spending)
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/Photo/9.%20Result%20of%20Survey.JPG)
-
-- Summary topic table 
-
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/Photo/9.%20Topic%20summary%20from%20Survey.JPG)
-
-
-# Data preparation:
-- Convert ranking to numbering such as "สนใจอย่างมากที่สุด" = 7, "สนใจอย่างมาก" = 6, ... , ไม่สนใจอย่างมากที่สุด = "1"
-
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/Photo/9.%20Convery%20ranking%20to%20numbering.JPG)
-
-- Convert birthday to zodiac type as Libra (ราศีตุลย์), Scorpio (ราศีพิจิก), ...
-
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/Photo/9.%20DOB.jpg)
-
-# Analysis concept:  
-- The top average score is the most favorite of each zodiac  
- 
-# Result:  
-- Food: Love "Japanese" but Eat "Thai"
-
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/Photo/9.%20Food%20summary.JPG)
-
-- Hobby:
-	- Aries, Gemini, Cancer, Leo, Libra and Aquarius are love home activity (Reading and Watching movie/series/youtube)
-	- Taurus, Scorpio and Capricorn are love outdoor activity (Travel)
-	- However, all of zodiac spend time on youtube higher than other activities
-
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/Photo/9.%20Hobby%20summary.JPG)
-
-- Content:
-	- Food, Travel and Politics are recommend. 
-
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2001_Analysis%20of%20Customer/Photo/9.%20Content%20summary.JPG)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/1.%20GBQ%20for%20CLV.JPG)
