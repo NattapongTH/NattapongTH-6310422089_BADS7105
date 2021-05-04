@@ -1,9 +1,9 @@
 # <p align="center"> Customer Segmentation  </p>
 ***
 # Dashboard:
+- Click [here](https://datastudio.google.com/s/jDHH1qal8Q0) to found dashboard
 
-
-![alt](https:)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006_Customer%20Segmentation%20(Supermarket%20Data)/photo/0.%20Dashboard.JPG)
 
 # Concept:
 - Customer segmentation is the process of dividing customers into groups based on common characteristics so companies can market to each group effectively and appropriately.
