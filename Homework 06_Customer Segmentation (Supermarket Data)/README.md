@@ -1,7 +1,7 @@
 # <p align="center"> Customer Segmentation  </p>
 ***
 # Dashboard:
-- Click 
+
 
 ![alt](https:)
 
@@ -19,10 +19,6 @@
 
 - Coding
 - Click [here](https://www.kaggle.com/nattapongthanngam/kmean2) to found dashboard
-
-
-
-
 
 
 
@@ -123,15 +119,6 @@
 	- It can apply for "Market Basket Discounts"
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/9.%20Best%20seller.JPG)
-
-
-
-
-
-
-
-
-
 
 
 
