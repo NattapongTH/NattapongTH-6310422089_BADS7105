@@ -1,7 +1,7 @@
 # <p align="center"> Customer Lifetime Value </p>
 ***
-# Result:
-- Click [here](https://datastudio.google.com/s/jAENinX74dk) to find my code
+# Dashboard:
+- Click [here](https://datastudio.google.com/s/jAENinX74dk) to found dashboard
 
 # Concept:
 - I design dashboard to use as routine. Therefore, the data is calculate base on 3 months (Apr - Jun 2008) 
@@ -85,12 +85,18 @@
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/7.%20Creating%20value%20from%20clustering%20results.JPG)
 
+8. Additonal
+- Product recommendation
+	- Click [here](https://www.kaggle.com/nattapongthanngam/recommendation-nattapong) to found dashboard
+	- It can apply for "Market Basket Discounts"
 
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/8.%20Product%20recommendation.JPG)
 
+- Top 5 Best seller
+	- To maximize discount efficiency, top 5 best seller base on life stage
+	- It can apply for "Market Basket Discounts"
 
-
-
-
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/9.%20Best%20seller.JPG)
 
 
 
