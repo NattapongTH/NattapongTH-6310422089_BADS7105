@@ -45,10 +45,9 @@
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/4.%20KMEAN%20result.jpg)
 
-	- The result of customer segmentation = High/Medium/Low customer
+- The result of customer segmentation = High/Medium/Low customer
 	
-
-	- 2 = I separate Churn only 2 step (1. Churn in Current month Churn and 2. Churn in Previous month)   
+- 2 = I separate Churn only 2 step (1. Churn in Current month Churn and 2. Churn in Previous month)   
 		
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/5..%20Status%20of%20customer%20by%20month.jpg)
 
