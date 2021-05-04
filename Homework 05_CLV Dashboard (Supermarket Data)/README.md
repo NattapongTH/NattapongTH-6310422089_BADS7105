@@ -3,6 +3,8 @@
 # Dashboard:
 - Click [here](https://datastudio.google.com/s/nn9ahwywKto) to found dashboard
 
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/0.%20Result.JPG)
+
 # Concept:
 - I design dashboard to use as routine. Therefore, the data is calculate base on 3 months (Apr - Jun 2008) 
 - Customer Lifetime Value (CLV) represents the average amount of money a customer is expected to spend on a specific organisation or brand over their entire lifetime.
