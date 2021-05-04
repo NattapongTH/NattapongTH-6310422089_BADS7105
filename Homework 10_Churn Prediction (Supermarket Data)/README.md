@@ -27,6 +27,10 @@
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2010_Churn%20Prediction%20(Supermarket%20Data)/Photo/3.%202nd%20query.JPG)
 
+Result of Churn rate graph by use google studio
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2010_Churn%20Prediction%20(Supermarket%20Data)/Photo/6.%20Churn%20rate%20graph.JPG)
+
 - Use same concept of 1st query to find gap of visiting
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2010_Churn%20Prediction%20(Supermarket%20Data)/Photo/4.%203rd%20query.JPG)
