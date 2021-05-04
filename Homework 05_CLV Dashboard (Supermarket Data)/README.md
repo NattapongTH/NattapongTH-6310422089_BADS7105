@@ -1,5 +1,7 @@
 # <p align="center"> Customer Lifetime Value </p>
 ***
+# Result:
+- Click [here](https://datastudio.google.com/s/jAENinX74dk) to find my code
 
 # Concept:
 - I design dashboard to use as routine. Therefore, the data is calculate base on 3 months (Apr - Jun 2008) 
@@ -49,8 +51,14 @@
 	
 - 2 = I separate Churn only 2 step (1. Churn in Current month Churn and 2. Churn in Previous month)   
 		
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/5..%20Status%20of%20customer%20by%20month.jpg)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/5.%20Status%20of%20customer%20by%20month.jpg)
 
+- 1 = Customer who do not be register membership
 
+5. Moreover, I want to show GAP between last visiting and 2nd last visiting
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/6.%20GAP%20of%20visiting.JPG)
+
+ 
 
 
