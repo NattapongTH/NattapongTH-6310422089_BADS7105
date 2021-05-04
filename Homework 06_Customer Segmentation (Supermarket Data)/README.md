@@ -1,7 +1,7 @@
 # <p align="center"> Customer Segmentation  </p>
 ***
 # Dashboard:
-- Click [here](https://www.kaggle.com/nattapongthanngam/kmean2) to found dashboard
+- Click 
 
 ![alt](https:)
 
@@ -11,10 +11,28 @@
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006_Customer%20Segmentation%20(Supermarket%20Data)/photo/1.%20concept%20of%20customer%20segmentation.png)
 
  
-- I will use K Mean method that have concept as 
+- I will use K Mean method that the concept consist of
+	- Starts with a first group of randomly selected centroids, which are used as the beginning points for every cluster, 
+	- And then performs iterative (repetitive) calculations to optimize the positions of the centroids 
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006_Customer%20Segmentation%20(Supermarket%20Data)/photo/2.%20K%20mean%20concept.png)
-- Design concept of work
+
+- Coding
+- Click [here](https://www.kaggle.com/nattapongthanngam/kmean2) to found dashboard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	- Use Lifetime package in Python to calculate CLV
 	- Merge result with other homework (Churn analysis, Customer segmentation) to group custmer
 	- Match proper compaign to each segment of customer
