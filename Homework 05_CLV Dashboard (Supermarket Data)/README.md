@@ -69,21 +69,21 @@
 
 
 7. Set campaign idea
-- For membership
-	- Special New Year Gift = To make premium member impact (only CELESTIAL member)
-	- Special Birthday Discount = To make premium member impact (only CELESTIAL and LEGENDARY member)  
-	- Market Basket Discounts = To create brand loyalty. market basket analysis able to reduce churn rate (only CELESTIAL, LEGENDARY and EPIC member) 
-- For churn customer
-	- Special Coupon Discount (1D expired) = To make special attractiveness (only CHURN member)
-	- Coupon Discount (Top 5 Best Seller) = To make special attractiveness (only CHURN and GHOST member)
-- For non-member
-	- New Member Discount = To convince non-member customer to be member (only non-member)
-- For all
-	- "Pack set" such as (5 free 1), (11 free 1), etc. --> To upsell (stretch spending)
-	- "Premium Gift" such as buy 5 give plastic bag, buy over 1,000 give glass = To upsell (stretch spending)
-	- Common Discount via mobile application, line program, website, etc. --> To increase brand awareness
+	- For membership
+		- Special New Year Gift = To make premium member impact (only CELESTIAL member)
+		- Special Birthday Discount = To make premium member impact (only CELESTIAL and LEGENDARY member)  
+		- Market Basket Discounts = To create brand loyalty. market basket analysis able to reduce churn rate (only CELESTIAL, LEGENDARY and EPIC member) 
+	- For churn customer
+		- Special Coupon Discount (1D expired) = To make special attractiveness (only CHURN member)
+		- Coupon Discount (Top 5 Best Seller) = To make special attractiveness (only CHURN and GHOST member)
+	- For non-member
+		- New Member Discount = To convince non-member customer to be member (only non-member)
+	- For all
+		- "Pack set" such as (5 free 1), (11 free 1), etc. --> To upsell (stretch spending)
+		- "Premium Gift" such as buy 5 give plastic bag, buy over 1,000 give glass = To upsell (stretch spending)
+		- Common Discount via mobile application, line program, website, etc. --> To increase brand awareness
 
-
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/7.%20Creating%20value%20from%20clustering%20results.JPG)
 
 
 
