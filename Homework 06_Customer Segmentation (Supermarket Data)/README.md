@@ -3,7 +3,7 @@
 # Dashboard:
 - Click [here](https://www.kaggle.com/nattapongthanngam/kmean2) to found dashboard
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/0.%20Result.JPG)
+![alt](https:)
 
 # Concept:
 - Customer segmentation is the process of dividing customers into groups based on common characteristics so companies can market to each group effectively and appropriately.
@@ -11,7 +11,9 @@
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006_Customer%20Segmentation%20(Supermarket%20Data)/photo/1.%20concept%20of%20customer%20segmentation.png)
 
  
-- Customer Lifetime Value (CLV) represents the average amount of money a customer is expected to spend on a specific organisation or brand over their entire lifetime.
+- I will use K Mean method that have concept as 
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006_Customer%20Segmentation%20(Supermarket%20Data)/photo/2.%20K%20mean%20concept.png)
 - Design concept of work
 	- Use Lifetime package in Python to calculate CLV
 	- Merge result with other homework (Churn analysis, Customer segmentation) to group custmer
