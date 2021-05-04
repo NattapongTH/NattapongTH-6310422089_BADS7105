@@ -1,7 +1,7 @@
 # <p align="center"> Customer Lifetime Value </p>
 ***
 # Dashboard:
-- Click [here](https://datastudio.google.com/s/jAENinX74dk) to found dashboard
+- Click [here](https://datastudio.google.com/s/nn9ahwywKto) to found dashboard
 
 # Concept:
 - I design dashboard to use as routine. Therefore, the data is calculate base on 3 months (Apr - Jun 2008) 
