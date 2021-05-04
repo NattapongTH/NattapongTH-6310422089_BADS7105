@@ -1,12 +1,16 @@
-# <p align="center"> Customer Lifetime Value </p>
+# <p align="center"> Customer Segmentation  </p>
 ***
 # Dashboard:
-- Click [here](https://datastudio.google.com/s/nn9ahwywKto) to found dashboard
+- Click [here](https://www.kaggle.com/nattapongthanngam/kmean2) to found dashboard
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/0.%20Result.JPG)
 
 # Concept:
-- I design dashboard to use as routine. Therefore, the data is calculate base on 3 months (Apr - Jun 2008) 
+- Customer segmentation is the process of dividing customers into groups based on common characteristics so companies can market to each group effectively and appropriately.
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006_Customer%20Segmentation%20(Supermarket%20Data)/photo/1.%20concept%20of%20customer%20segmentation.png)
+
+ 
 - Customer Lifetime Value (CLV) represents the average amount of money a customer is expected to spend on a specific organisation or brand over their entire lifetime.
 - Design concept of work
 	- Use Lifetime package in Python to calculate CLV
