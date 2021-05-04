@@ -28,4 +28,7 @@
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/1.%20GBQ%20for%20CLV.JPG)
 
 3. Use python to calculate CLV by use Lifetime package
-Click [here](https://www.kaggle.com/nattapongthanngam/clv-test-nattapong) to find my code  
+Click [here](https://www.kaggle.com/nattapongthanngam/clv-test-nattapong) to find my code
+- Let's me show some interesting result (1. Frequency/Recency matrix and 2. CLV result) 
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/2.%20RF%20result.JPG)  
