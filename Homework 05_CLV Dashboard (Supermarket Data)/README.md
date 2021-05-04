@@ -28,19 +28,28 @@
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/1.%20GBQ%20for%20CLV.JPG)
 
 3. Use python to calculate CLV by use Lifetime package
-- Click [here](https://www.kaggle.com/nattapongthanngam/clv-test-nattapong) to find my code
-- Let's me show some interesting result (1. Frequency/Recency matrix and 2. CLV result) 
+	- Click [here](https://www.kaggle.com/nattapongthanngam/clv-test-nattapong) to find my code
+	- Let's me show some interesting result (1. Frequency/Recency matrix and 2. CLV result) 
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/2.%20RF%20result.JPG) 
 
-- F/R matrix able to show "Expected number of future purchases for 1 unit of time" and "Probability Customer is Alive" 
-- For CLV result, I assume monthly discount rate=0.01 (~ 12.7% annually)
+	- F/R matrix able to show "Expected number of future purchases for 1 unit of time" and "Probability Customer is Alive" 
+	- For CLV result, I assume monthly discount rate=0.01 (~ 12.7% annually)
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/3.%20CLV%20result.JPG)
 
 4. After got CLV by customer, I merge result of Churn analysis, Customer segmentation and set segmentation name as 3+2+1
 
-- 3 = "Customer segmentation from K-Mean"
-- Click [here](https://www.kaggle.com/nattapongthanngam/kmean2) to find my code
+	- 3 = "Customer segmentation from K-Mean"
+		- Click [here](https://www.kaggle.com/nattapongthanngam/kmean2) to find my code
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/4.%20KMEAN%20result.jpg)
+
+		- The result of customer segmentation = High/Medium/Low customer
+	
+
+
+
+
+
+
