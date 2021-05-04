@@ -17,19 +17,15 @@
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006_Customer%20Segmentation%20(Supermarket%20Data)/photo/2.%20K%20mean%20concept.png)
 
-- Coding
-- Click [here](https://www.kaggle.com/nattapongthanngam/kmean2) to found dashboard
+- Step of work
+	- Click [here](https://www.kaggle.com/nattapongthanngam/kmean2) to found dashboard
 
+1. Prepare data by google bigquery (Require data = Customer ID, Spending and Visiting of each date)
 
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006_Customer%20Segmentation%20(Supermarket%20Data)/photo/3.%20Data%20preparation.JPG)
 
-
-
-
-
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/Raw%20data_CLV.JPG)
-
-
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/1.%20GBQ%20for%20CLV.JPG)
+2. Follow code until amount of centroid selection step, use elbow method to select proper centroild 
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006_Customer%20Segmentation%20(Supermarket%20Data)/photo/4.%20Number%20of%20centroid%20selection.jpg)
 
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/2.%20RF%20result.JPG) 
