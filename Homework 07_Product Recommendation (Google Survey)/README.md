@@ -31,13 +31,15 @@
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2007_Product%20Recommendation%20(Google%20Survey)/Photo/6.%20basis%20community%20detection.JPG)
 
 - The popular method for community Detection consist of 3 type 
-	1. Degree Centrality
+	
+1. Degree Centrality
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2007_Product%20Recommendation%20(Google%20Survey)/Photo/7.%20first%20community%20detection.JPG)
-	2. Betweenness Centrality
+	
+2. Betweenness Centrality
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2007_Product%20Recommendation%20(Google%20Survey)/Photo/8.%202nd%20community%20detection.JPG)
 
-	3. Closeness Centrality
+3. Closeness Centrality
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2007_Product%20Recommendation%20(Google%20Survey)/Photo/9.%203rd%20community%20detection.JPG)
