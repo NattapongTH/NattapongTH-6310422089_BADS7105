@@ -10,12 +10,12 @@ The customer journey then proceeds through these touchpoints.
 # Homework: Find kind of data that we have to collect for data analytic via Customer Journey
 - Step 1: Create customer journey
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2004_Customer%20Journey/Photo/1.JPG)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2004%20%E2%80%93%20Customer%20Journey/Photo/1.JPG)
 
 - Step 2: Fixing customer journey with data analytics
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2004_Customer%20Journey/Photo/2.JPG)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2004%20%E2%80%93%20Customer%20Journey/Photo/2.JPG)
 
 - Step 3: Collecting data throughout customer journey
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2004_Customer%20Journey/Photo/3.JPG)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2004%20%E2%80%93%20Customer%20Journey/Photo/3.JPG)
