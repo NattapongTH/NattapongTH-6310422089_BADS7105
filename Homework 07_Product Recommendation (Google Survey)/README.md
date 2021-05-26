@@ -1,46 +1,43 @@
-# <p align="center"> Churn Prediction  </p>
+# <p align="center"> Product Recommendatio  </p>
 ***
-# Dashboard:
-- Click [here](https://datastudio.google.com/s/nTkFiWUHqu4) to found dashboard
-
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2010_Churn%20Prediction%20(Supermarket%20Data)/Photo/0.%20Dashboard.JPG)
+# Output:
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2007_Product%20Recommendation%20(Google%20Survey)/Photo/1.%20Result.JPG)
 
 # Concept:
-- Customer churn (or customer attrition) is a tendency of customers to abandon a brand and stop being a paying client of a particular business. The percentage of customers that discontinue using a company’s products or services during a particular time period is called a customer churn (attrition) rate.
+- Product recommendation is basically a filtering system that seeks to predict and show the items that a user would like to purchase. It may not be entirely accurate, but if it shows you what you like then it is doing its job right.
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2010_Churn%20Prediction%20(Supermarket%20Data)/Photo/1%20Churn%20concept.png)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2007_Product%20Recommendation%20(Google%20Survey)/Photo/3%20Recommend.png)
 
  
-- Use google bigquery to calculate churn monitoring by seperate 5 groups
-	- REPEAT = Customer who purchase in last month + purchase in current month
-	- REACTIVATED = Customer who purchase in last 2 month + not purchase in last month + back to purchase again in current month  
-	- New = Customer who start purchase in current month
-	- CHURN = Customer who purchase in last month + not purchase in current month
-	- GONE = Customer who not purchase in 2 month or more
+- After classroom survey (purchasing history of many item as 1. used to buy ("เคยซื้อ") and 2. never buy it ("ไม่เคยซื้อ")), the raw data is cleaned by replace NULL with never buy it. check data profiling, etc.
 
-- Code of query
-	- Click [here](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2010_Churn%20Prediction%20(Supermarket%20Data)/Query%20code.docx) to found code in word
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2007_Product%20Recommendation%20(Google%20Survey)/Photo/2.%20Raw%20data.JPG)
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2010_Churn%20Prediction%20(Supermarket%20Data)/Photo/2.%20Query%20result.JPG)
+- Then, criteria of basket analysis consist of
+	1. 'Lift' > 1.01 --> Result =  416,718 row
+	2. Limit item only 1 in 'Antecedents' and 'Consequents', Set 'Support' > 0.55 and set 'Confidence' > 0.91 --> Result = 29 row (my target is lower than 30)
+                             
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2007_Product%20Recommendation%20(Google%20Survey)/Photo/4.%20result%20from%20basket%20analysis.JPG)
 
-- Then, use result to query again
+- The result can apply for product recommendation. 
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2010_Churn%20Prediction%20(Supermarket%20Data)/Photo/3.%202nd%20query.JPG)
+# Addtional for Community Detection:
 
-Result of Churn rate graph by use google studio
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2007_Product%20Recommendation%20(Google%20Survey)/Photo/5.%20Community%20detection.png)
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2010_Churn%20Prediction%20(Supermarket%20Data)/Photo/6.%20Churn%20rate%20graph.JPG)
+- Community detection algorithms are used to evaluate how groups of nodes are clustered or partitioned, as well as their tendency to strengthen or break apart.
+- 1st result of Community Detection
 
-- Use same concept of 1st query to find gap of visiting
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2007_Product%20Recommendation%20(Google%20Survey)/Photo/6.%20basis%20community%20detection.JPG)
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2010_Churn%20Prediction%20(Supermarket%20Data)/Photo/4.%203rd%20query.JPG)
+- The popular method for community Detection consist of 3 type 
+	1. Degree Centrality
 
-# Additonal:
-- Create monthly dashboard by use google studio
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2007_Product%20Recommendation%20(Google%20Survey)/Photo/7.%20first%20community%20detection.JPG)
+	2. Betweenness Centrality
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2010_Churn%20Prediction%20(Supermarket%20Data)/Photo/5.%20monthly%20dashboard.JPG)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2007_Product%20Recommendation%20(Google%20Survey)/Photo/8.%202nd%20community%20detection.JPG)
 
-# Recommendation:
-- Finally, we should apply other tools such as customer segmentation, product recommendation, etc. and create action plan to reduce churn rate
+	3. Closeness Centrality
 
-
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2007_Product%20Recommendation%20(Google%20Survey)/Photo/9.%203rd%20community%20detection.JPG)
