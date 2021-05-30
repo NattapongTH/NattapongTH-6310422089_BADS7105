@@ -85,7 +85,7 @@
 		- "Premium Gift" such as buy 5 give plastic bag, buy over 1,000 give glass = To upsell (stretch spending)
 		- Common Discount via mobile application, line program, website, etc. --> To increase brand awareness
 
-![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005_CLV%20Dashboard%20(Supermarket%20Data)/Photo/7.%20Creating%20value%20from%20clustering%20results.JPG)
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2005%20%E2%80%93%20CLV%20Dashboard(Supermarket%20Data)/Photo/7.%20Creating%20value%20from%20clustering%20results.JPG)
 
 8. Additonal
 - Product recommendation
