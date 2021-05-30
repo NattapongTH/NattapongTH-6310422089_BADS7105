@@ -3,12 +3,17 @@
 # Output:
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2008%20%E2%80%93%20Campaign%20Response%20Model/Photo/1.%20output.JPG)
 
-# Concept:
-- Raw data: Following figure is example of Raw Data
+# Step of work:
+- 1. Raw data: Following figure is example of Raw Data
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2008%20%E2%80%93%20Campaign%20Response%20Model/Photo/2.%20Raw%20data.jpg)
  
-- Highlight Data Profiling
+- 2. Highlight Data Profiling
+
+RFM model and imbalance data
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2008%20%E2%80%93%20Campaign%20Response%20Model/Photo/10.JPG)
+
 
 Respone type vs K-MEAN result 
 
@@ -31,3 +36,7 @@ Respone type vs key parameter
 
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2008%20%E2%80%93%20Campaign%20Response%20Model/Photo/8.JPG)
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2008%20%E2%80%93%20Campaign%20Response%20Model/Photo/9.JPG)
+
+- Conclusion
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2008%20%E2%80%93%20Campaign%20Response%20Model/Photo/11.JPG)
