@@ -51,6 +51,19 @@
 	
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation%20(Supermarket%20Data)/photo/18.JPG)
 
+Note
+- Community Detection "Closeness Centrality"
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation%20(Supermarket%20Data)/photo/13.JPG)
+
+- Community Detection: Many item by PLOTLY
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation%20(Supermarket%20Data)/photo/16.JPG)
+
+if normal plot, it cannot zoom
+
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation%20(Supermarket%20Data)/photo/15.JPG)
+
 - Another tool = Silhouette (only show result)
 		
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation%20(Supermarket%20Data)/photo/7.%20Sihouette.jpg)
