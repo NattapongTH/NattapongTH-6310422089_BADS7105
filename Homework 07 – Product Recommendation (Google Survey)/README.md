@@ -1,4 +1,4 @@
-# <p align="center"> Product Recommendatio  </p>
+# <p align="center"> Product Recommendation  </p>
 ***
 # Output:
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation%20(Google%20Survey)/Photo/1.%20Result.JPG)
