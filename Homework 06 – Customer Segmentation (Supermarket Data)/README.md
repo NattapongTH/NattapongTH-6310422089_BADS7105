@@ -44,6 +44,13 @@
 	
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation%20(Supermarket%20Data)/photo/9.%20action%20plan.JPG)
 
+7. For Spend stretch, market basket analysis able to apply. The criteria consist of 1) Lift >= 1 and 2) only 1 item in actecedent and consequent
+
+- From 486 matching, item is screened to 113 item after delete duplicate (top confidence score)
+- Filter most popular item of each user and recommend product base on masket analysis
+	
+![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation%20(Supermarket%20Data)/photo/18.JPG)
+
 - Another tool = Silhouette (only show result)
 		
 ![alt](https://github.com/NattapongTH/NattapongTH-6310422089_BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation%20(Supermarket%20Data)/photo/7.%20Sihouette.jpg)
